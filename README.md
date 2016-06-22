@@ -14,4 +14,4 @@ cylinder and weight. The application is a shiny implementation of R
 Tutorial available
 [here](http://varianceexplained.org/RData/code/code_lesson3/). To run
 the shiny application download/clone the project and then run runApp()
-by switching over to the project directory.
+after switching over to the project directory.
