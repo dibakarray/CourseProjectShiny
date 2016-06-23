@@ -22,10 +22,10 @@ summary(mfit)
 ```
 
 ## How to Use
-A simple user interface is available to user who wants to find out or explore Fuel Efficienct (miles per gallon) for a given set of input - displacement, number of cylinders and weight of the car.
+A simple user interface is available to user who wants to find out or explore Fuel Efficiency (miles per gallon) for a given set of input - displacement, number of cylinders and weight of the car.
 The user need to change the Displacement by clicking the Displacement  numeric input widget. The input will increase/decrease by 10 unit with each click.
 Similarly, to provide a input of a different number of Cylinder, the user needs to click the 'Number of Cyliders'numericc input widget. Allowed values are 4, 6 and 8 cylinders.
-In order to input weight of the car,user needs to user 'Weight'slider. Slider takes values from 1500 to 5500 Ibs.
+In order to input weight of the car,user needs to use 'Weight'slider. Slider takes values from 1500 to 5500 Ibs.
 
 
 ```{r siderpanel, echo=FALSE}
@@ -43,7 +43,7 @@ In order to input weight of the car,user needs to user 'Weight'slider. Slider ta
 
 ```
 
-As the user changes input on the side panel the user can see the inputs given and the predicted Fuel efficinecy in miles per gallon.
+As the Inputs are  changed  on the side panel the user can see  on the main panel changed inputs and the predicted Fuel efficinecy in miles per gallon for the new input set.
 
 ```{r mainpanel, echo=FALSE}
  data(mtcars)

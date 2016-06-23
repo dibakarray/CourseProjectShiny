@@ -1,0 +1,9 @@
+name: CoureProjectShiny
+account: datasciencesolution
+server: shinyapps.io
+appId: 110024
+bundleId: 487214
+url: https://datasciencesolution.shinyapps.io/CoureProjectShiny/
+when: 1466672603.71045
+asMultiple: FALSE
+asStatic: FALSE
