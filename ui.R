@@ -41,7 +41,7 @@ shinyUI(fluidPage(
                 p('This is a shiny application of the example given  by David Rabinson at segment 4 of  his R', a(href="http://varianceexplained.org/RData/code/code_lesson3/","Tutorial."),' This utility uses sample  dataset built into R, called mtcars, that comes from a 1974 issue of Motor Trends magazine'),
                 
                 
-                p('If it is assumed that  weight,  number of cylinders, and the volume, or displacement, of the car are related to the fuel efficency of a car. Then, based on the model  fuel eficiency  can be predicted based on the new  Displacement, Number of Cylinders and Weight.'),
+                p('If it is assumed that  weight,  number of cylinders, and the volume, or displacement, of the car are related to the fuel efficency of a car. Fuel eficiency  can then be predicted based on this model for a user given Displacement, Number of Cylinders and Weight.'),
                 style = "background-color: #98f5ff;"
         ),
         
